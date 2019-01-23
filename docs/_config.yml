@@ -1,13 +1,13 @@
 # Site settings
-title: Clean
-email: your-email@domain.com
+title: Backendtroll.de
+email: info@it-cru.de
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml.
-baseurl: "/clean" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+  The domain backendtroll.de is reserved by IT-Cru - Das IT-Gewächs.
+  If you are interested in a suitable project, please contact me.
+baseurl: "/backendtroll.de" # the subpath of your site, e.g. /blog/
+url: "https://it-cru.github.io" # the base hostname & protocol for your site
+twitter_username: ITcru
+github_username:  IT-Cru
 
 # Build settings
 markdown: kramdown
