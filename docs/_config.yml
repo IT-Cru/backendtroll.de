@@ -4,8 +4,8 @@ email: info@it-cru.de
 description: > # this means to ignore newlines until "baseurl:"
   The domain backendtroll.de is reserved by IT-Cru - Das IT-Gewächs.
   If you are interested in a suitable project, please contact me.
-baseurl: "/backendtroll.de" # the subpath of your site, e.g. /blog/
-url: "https://it-cru.github.io" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "https://backendtroll.de" # the base hostname & protocol for your site
 twitter_username: ITcru
 github_username:  IT-Cru
 
